@@ -4,8 +4,8 @@
 
 - 🔭 I'm currently working on **various Java apps, my websight in Golang**
 - 🌱 Learning **backend development** and **computer science**
-- ⚙️ I use daily: `Java`, `Golang`. Want to try `.cpp`, `.sh`
-- 💬 Ask me about **Java**, **Golang**, **backend development**, **C**
+- ⚙️ I use daily: `C` `Golang`. Want to try `Docker`
+- 💬 Ask me about **C**, **Golang**, **backend development**
 - ⚡️ Hobbies: coding & writing & traveling & painting
 
 <p>
@@ -26,12 +26,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Minishell
+- 🌱 I’m currently learning git
+- 👯 I’m looking to collaborate on selfdriving cars
+- 💬 Ask me about C
 -->
