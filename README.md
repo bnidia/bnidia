@@ -1,6 +1,6 @@
 ### <samp>Hi there 👋 Welcome to my github!</samp>
 
-#### Golang, Java, Python backend developer & 21-school attendant
+#### C, Golang, backend developer & 21-school attendant
 
 - 🔭 I'm currently working on **various Java apps, my websight in Golang**
 - 🌱 Learning **backend development** and **computer science**
