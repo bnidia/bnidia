@@ -2,7 +2,7 @@
 
 #### C, Golang, backend developer & 21-school attendant
 
-- 🔭 I'm currently working on **various Java apps, my websight in Golang**
+- 🔭 I'm currently working on **various C apps, my websight in Golang**
 - 🌱 Learning **backend development** and **computer science**
 - ⚙️ I use daily: `C` `Golang`. Want to try `Docker`
 - 💬 Ask me about **C**, **Golang**, **backend development**
@@ -15,8 +15,8 @@
 [![bnidia's 42 stats](https://badge42.vercel.app/api/v2/cl3enoo9k004009muhk5a94tj/stats?cursusId=21&coalitionId=91)](https://github.com/JaeSeoKim/badge42)
 
 ### Contact me:
-[<img align="left" alt="Rustem Khu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Rustem Khu | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="bnidia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="bnidia | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
 [linkedin]: https://www.linkedin.com/in/rustem-spb/
 [telegram]: https://t.me/ooddb
