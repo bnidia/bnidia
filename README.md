@@ -18,7 +18,7 @@
 [<img align="left" alt="bnidia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="bnidia | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
-[linkedin]: https://www.linkedin.com/in/rustem-spb/
+[linkedin]: https://www.linkedin.com/in/rustem-k/
 [telegram]: https://t.me/ooddb
 
 
