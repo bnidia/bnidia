@@ -6,6 +6,7 @@
 - 🌱 Learning **backend development** and **computer science**
 - ⚙️ I use daily: `C` `Golang`. Want to try `Docker`
 - 💬 Ask me about **C**, **Golang**, **backend development**
+- 👩‍💻 For 42 fellow students my **Intra** nickname is **bnidia**, you can reach me on **Slack**
 - ⚡️ Hobbies: coding & writing & traveling & painting
 
 <p>
