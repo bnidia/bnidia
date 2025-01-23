@@ -9,6 +9,8 @@
 - 👩‍💻 For 42 fellow students my **Intra** nickname is **bnidia**, you can reach me on **Slack**
 - ⚡️ Hobbies: coding & writing & traveling & painting
 
+https://www.credly.com/badges/a6a30a53-74b2-4100-b9cc-65aa4cc661c1/public_url
+
 <!--p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bnidia&hide=swift,roff,php,Makefile,Cmake,python,shell,html,css,Assembly,dockerfile&langs_count=8&layout=compact&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
